@@ -13,4 +13,4 @@ While some may perceive this as a whimsical diversion, I maintain that exploring
 
 Join me on this invigorating odyssey as we traverse the frontiers of innovation, decipher the enigmas of tomorrow, and perhaps, uncover the underlying truths of our technological destiny. Let's connect and collaboratively script the narrative of the future, one meticulously crafted algorithm at a time! 🚀
 
-Let's connect on [LinkedIn](your linkedin profile link) and [Twitter](your twitter profile link)!
+Let's connect on [LinkedIn] [(your linkedin profile link)](https://www.linkedin.com/in/isuru-weerasinghe-464911193/)https://www.linkedin.com/in/isuru-weerasinghe-464911193/ 
