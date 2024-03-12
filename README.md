@@ -14,3 +14,23 @@ While some may perceive this as a whimsical diversion, I maintain that exploring
 Join me on this invigorating odyssey as we traverse the frontiers of innovation, decipher the enigmas of tomorrow, and perhaps, uncover the underlying truths of our technological destiny. Let's connect and collaboratively script the narrative of the future, one meticulously crafted algorithm at a time! 🚀
 
 Let's connect on [LinkedIn] (https://www.linkedin.com/in/isuru-weerasinghe-464911193/)https://www.linkedin.com/in/isuru-weerasinghe-464911193/ 
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+- 🌱 I’m currently learning HTML,CSS,PHP,JavaScript & Java
+- 💬 Ask me about HTML,CSS,PHP,JavaScript,Mern Stack
+- 📫 How to reach me *isuruweerasinghe7@gmail.com*
+- ⚡I like playing video games,watching movies and design websites
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
